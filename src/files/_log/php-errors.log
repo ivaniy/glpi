@@ -1,0 +1,7 @@
+[2019-03-12 14:35:38] glpiphplog.WARNING: Test logger  
+[2019-03-12 15:47:58] glpiphplog.WARNING: Test logger  
+[2019-03-12 16:02:08] glpiphplog.WARNING: Test logger  
+[2019-03-12 16:04:56] glpiphplog.DEBUG: Html::compileScss() in /var/www/html/inc/html.class.php line 6688
+css/styles is new, loading  {"user":"@bb913b2ee647"} 
+[2019-03-12 16:04:56] glpiphplog.DEBUG: Html::compileScss() in /var/www/html/inc/html.class.php line 6688
+css/palettes/auror is new, loading  {"user":"@bb913b2ee647","mem_usage":"0.019\", 1.08Mio)"} 
