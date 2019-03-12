@@ -1,3 +1,5 @@
 mysql/databases
 src/config/config_db.php
 nginx/logs
+src/files/_log
+src/files/_sessions
