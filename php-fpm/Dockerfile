@@ -15,6 +15,6 @@ RUN apt-get update  && apt-get install -y \
    && docker-php-ext-install xmlrpc \
    && docker-php-ext-install xml \
    && docker-php-ext-install mysqli opcache  \
-   && docker-php-ext-install gd \
+   && docker-php-ext-install gd
 
 COPY php.ini /usr/local/etc/php/conf.d/40-custom.ini
