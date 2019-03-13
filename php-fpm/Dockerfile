@@ -17,4 +17,4 @@ RUN apt-get update  && apt-get install -y \
    && docker-php-ext-install mysqli opcache  \
    && docker-php-ext-install gd \
 
-ADD php.ini /usr/local/etc/php/conf.d/40-custom.ini
+COPY php.ini /usr/local/etc/php/conf.d/40-custom.ini
